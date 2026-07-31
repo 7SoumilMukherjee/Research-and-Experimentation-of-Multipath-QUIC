@@ -1,0 +1,19 @@
+## Whitelist: ignore everything by default, keep only source files.
+*
+!*/
+!*.tex
+!*.bib
+!*.c
+!*.cc
+!*.cpp
+!*.cxx
+!*.h
+!*.hh
+!*.hpp
+!*.py
+!*.go
+!*.md
+!*.xml
+!*.pdf
+# keep project metadata
+!.gitignore
